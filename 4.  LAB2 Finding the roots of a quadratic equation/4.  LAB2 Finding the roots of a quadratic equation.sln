@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.  LAB2 Finding the roots of a quadratic equation", "4.  LAB2 Finding the roots of a quadratic equation.csproj", "{95F927CB-6128-47B2-917C-1F139F9814DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F927CB-6128-47B2-917C-1F139F9814DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F927CB-6128-47B2-917C-1F139F9814DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F927CB-6128-47B2-917C-1F139F9814DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F927CB-6128-47B2-917C-1F139F9814DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B52AFA6-DB94-48B6-A400-A2DF06E420D2}
+	EndGlobalSection
+EndGlobal
